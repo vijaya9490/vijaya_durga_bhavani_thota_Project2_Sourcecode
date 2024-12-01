@@ -28,4 +28,20 @@ The game is interactive, allowing players to move characters between rooms, make
 ### Installation
 1. **Clone or Download the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/vijaya9490/vijaya_durga_bhavani_thota_Project2_Sourcecode.git
+2. **Navigate to code folder**:
+   ```bash
+   cd Studentname_Project2_SourceCode
+3. **Start Prolog Interpreter**
+   ```bash
+   swipl
+4. **Loading game file**
+   ```bash
+   [play_cluedo].
+5. To start the game
+   ```bash
+   interactive_game.
+
+### Example
+
+   
