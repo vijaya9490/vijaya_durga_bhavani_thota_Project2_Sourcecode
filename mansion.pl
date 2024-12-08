@@ -19,4 +19,3 @@ adjacent(lounge, study).
 
 % Helper to check if a room is adjacent
 is_adjacent(Room1, Room2) :- adjacent(Room1, Room2); adjacent(Room2, Room1).
-
